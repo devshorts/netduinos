@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onoffswitch.NetDuinoUtils", "NetDuino\NetDuinoUtils\Onoffswitch.NetDuinoUtils.csproj", "{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "NetDuino\Playground\Playground.csproj", "{FD56196A-F4CB-468E-9FF8-1C632054F820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servotest", "NetDuino\Servotest\Servotest.csproj", "{3DE29A13-840B-41BA-AFC7-B6E540E3F967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceTest", "NetDuino\DistanceTest\DistanceTest.csproj", "{79A03411-98FE-48E2-B921-C1738BC0B885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetLCD", "NetDuino\ResetLCD\ResetLCD.csproj", "{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6C5BB1-D5DC-4FC1-AD4C-8D77CF0F7226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD56196A-F4CB-468E-9FF8-1C632054F820}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE29A13-840B-41BA-AFC7-B6E540E3F967}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A03411-98FE-48E2-B921-C1738BC0B885}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C823C35-6F18-4CAD-BBAE-087DA1241DF0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
